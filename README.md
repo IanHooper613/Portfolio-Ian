@@ -16,7 +16,7 @@ This personal portfolio was built:
 
 
 Links:
--Live link: https://ianhooper613.github.io/Portfolio/
+-Live link: https://ianhooper613.github.io/Portfolio-Ian/
 -Github Profile: https://github.com/IanHooper613
 -Linkedin Profile: https://www.linkedin.com/in/ian-hooper-69b40a173/
 
